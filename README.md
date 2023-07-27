@@ -1,4 +1,4 @@
-# PRODIGY_TrackCode_3
+# Calculator App
 
 Creating a simple calculator using the HTML, and CSS
 
